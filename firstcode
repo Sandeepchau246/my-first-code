@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+            <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <title>new tab</title>
+</head> 
+<body style="background-color: rgb(236, 205, 167);">
+<a href="sandeep.css"></a>
+      <h1  style="display: block;" align="center">Web name</h1> 
+        <h2 style="table-layout: auto;"></h2>
+        <button a link="https://www.youtube.com/ >Home</button>
+        <button a>about me</button>
+        <button align="center">youtube</button>
+        <table>name <br>father name
+          
+
+        </table>
+</body>
+</html>
